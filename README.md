@@ -17,7 +17,7 @@ In an era where exploration and nature beckon, Trailblazer emerges as the go-to 
      * Android is the primary OS for mobile devices. You’ll build your app specifically for Android smartphones and tablets.
 	 * Use Android Studio, the official integrated development environment (IDE) for Android app development.
 	 * Leverage Java or Kotlin as your programming language for Android app development.
-* **Minimum OS Version:	
+* **Minimum OS Version**:	
      * Determine the minimum Android version your app will support. This decision affects the features and APIs you can use.
      * Consider factors like market share, security updates, and user base when choosing the minimum version.
      * Targeting Android 6.0 (Marshmallow) or higher is a reasonable choice.
