@@ -21,7 +21,7 @@ In an era where exploration and nature beckon, Trailblazer emerges as the go-to 
      * Determine the minimum Android version your app will support. This decision affects the features and APIs you can use.
      * Consider factors like market share, security updates, and user base when choosing the minimum version.
      * Targeting Android 6.0 (Marshmallow) or higher is a reasonable choice.
-## 4.Front/Back End Support
+## 4. Front/Back End Support
 * **Front End Support**:
      * User Interface (UI): Design and develop the app’s visual elements, including screens, buttons, navigation, and user interactions.
 	 * Front-End Frameworks: Consider using React Native (for cross-platform development) or Android Studio (for native Android apps).
