@@ -69,8 +69,8 @@ In an era where exploration and nature beckon, Trailblazer emerges as the go-to 
 * **Social Integration**:
      * Social Sharing: Allow users to share travel experiences on social media.
      * Collaboration: Enable group trip planning and coordination.
-## 6. Design (wireframes)**:
-* ** Splash Screen:
+## 6. Design (wireframes):
+* **Splash Screen**:
      * Introduce your app with a branded splash screen.
      * Include a logo and loading animation.
 * **Authentication Screens**:
