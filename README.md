@@ -51,7 +51,7 @@ In an era where exploration and nature beckon, Trailblazer emerges as the go-to 
 * **User Profiles and Preferences**:
      * User Accounts: Allow users to create profiles and save preferences.
      * Personalization: Offer tailored recommendations based on user preferences.
-* ** Reviews and Ratings**:
+* **Reviews and Ratings**:
      * User Reviews: Let travelers share their experiences and rate hotels, restaurants, and activities.
      * Trustworthy Ratings: Curate reliable reviews to help users make informed decisions.
 * **Offline Access**:
