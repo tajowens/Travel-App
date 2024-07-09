@@ -1,6 +1,6 @@
 # Travel and Adventure app
 An app that caters to outdoor enthusiasts.
-##Summary:
+## Summary:
 In an era where exploration and nature beckon, Trailblazer emerges as the go-to app for outdoor enthusiasts. Whether you’re a seasoned hiker, a camping aficionado, or simply seeking fresh air, Trailblazer provides essential tools to enhance your adventures. From discovering nearby trails to planning epic road trips, this app maximizes your time outdoors.
 ## 1. Project Desciption
 * **Title:** Trailblazer travel planner
