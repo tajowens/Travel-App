@@ -1,2 +1,1 @@
-# Android-App-Project-Outline
-Anatomy of Android Application 
+# Travel and Adventure app
