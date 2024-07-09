@@ -7,7 +7,7 @@ In an era where exploration and nature beckon, Trailblazer emerges as the go-to 
 * **Objective:** Develop an Android application to assist users with their travel plan.
 * **Target Audience:** This app is targeted for users that travels more than three or more times a year.
 ## 2. Problem Addressing
-* **Lack of Local Insights: Many travelers struggle to find authentic local experiences when visiting a new place. They often rely on generic tourist guides or miss out on hidden gems.
+* Lack of Local Insights: Many travelers struggle to find authentic local experiences when visiting a new place. They often rely on generic tourist guides or miss out on hidden gems.
 * **Inefficient Trip Planning: Planning a trip involves juggling multiple aspects—flights, accommodations, activities, and transportation. An app that streamlines this process can save time and reduce stress.
 * **Difficulty Finding Outdoor Activities: Adventure enthusiasts may find it challenging to discover suitable outdoor activities, hiking trails, or adventure sports in unfamiliar locations.
 * **Social Connection: Solo travelers or those seeking group adventures might want a platform to connect with like-minded individuals or local guides.
