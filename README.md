@@ -1,17 +1,17 @@
 # Travel and Adventure app
 An app that caters to outdoor enthusiasts.
 ## Summary:
-In an era where exploration and nature beckon, Trailblazer emerges as the go-to app for outdoor enthusiasts. Whether you’re a seasoned hiker, a camping aficionado, or simply seeking fresh air, Trailblazer provides essential tools to enhance your adventures. From discovering nearby trails to planning epic road trips, this app maximizes your time outdoors.
-## 1. Project Desciption
+In an era where exploration and nature beckon, Trailblazer emerges as the go-to app for outdoor enthusiasts. Whether you’re a seasoned hiker, a camping enthusiast, or simply seeking fresh air, Trailblazer provides essential tools to enhance your adventures. From discovering nearby trails to planning epic road trips, this app maximizes your time outdoors.
+## 1. Project Description
 * **Title:** Trailblazer travel planner
-* **Objective:** Develop an Android application to assist users with their travel plan.
-* **Target Audience:** This app is targeted for users that travels more than three or more times a year.
+* **Objective:** Develop an Android application to assist users with travel plans.
+* **Target Audience:** This app targets users who travel more than three or more times a year.
 ## 2. Problem Addressing
-* Lack of Local Insights: Many travelers struggle to find authentic local experiences when visiting a new place. They often rely on generic tourist guides or miss out on hidden gems.
-* **Inefficient Trip Planning: Planning a trip involves juggling multiple aspects—flights, accommodations, activities, and transportation. An app that streamlines this process can save time and reduce stress.
-* **Difficulty Finding Outdoor Activities: Adventure enthusiasts may find it challenging to discover suitable outdoor activities, hiking trails, or adventure sports in unfamiliar locations.
-* **Social Connection: Solo travelers or those seeking group adventures might want a platform to connect with like-minded individuals or local guides.
-* **Real-Time Navigation: An app that provides accurate real-time navigation during outdoor adventures (hiking, biking, etc.) can enhance safety and enjoyment.
+* Lack of Local Insights: Many travelers need help finding authentic local experiences when visiting a new place. They often rely on generic tourist guides or miss out on hidden gems.
+* Inefficient Trip Planning: Planning a trip involves juggling multiple aspects—flights, accommodations, activities, and transportation. An app that streamlines this process can save time and reduce stress.
+* Difficulty Finding Outdoor Activities: Adventure enthusiasts may find it challenging to discover suitable outdoor activities, hiking trails, or adventure sports in unfamiliar locations.
+* Social Connection: Solo travelers or those seeking group adventures might want a platform to connect with like-minded individuals or local guides.
+* Real-Time Navigation: An app that provides accurate real-time navigation during outdoor adventures (hiking, biking, etc.) can enhance safety and enjoyment.
 ## 3. Platform
 * **Operating System**:
      * Android is the primary OS for mobile devices. You’ll build your app specifically for Android smartphones and tablets.
