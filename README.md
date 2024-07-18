@@ -1,7 +1,7 @@
-# Travel and Adventure app
-An app that caters to outdoor enthusiasts.
+# Travel App
+An app that caters to hodophile enthusiasts.
 ## Summary:
-In an era where exploration and nature beckon, Trailblazer emerges as the go-to app for outdoor enthusiasts. Whether you’re a seasoned hiker, a camping enthusiast, or simply seeking fresh air, Trailblazer provides essential tools to enhance your adventures. From discovering nearby trails to planning epic road trips, this app maximizes your time outdoors.
+Your Ultimate Travel Companion Trailblazer, the go-to app for hodophiles, combines exploration and nature in one seamless experience. Whether you’re a seasoned traveler or simply seeking fresh air, Hummingbird Travel Agency’s essential tools enhance your adventures. From discovering the City of Light, with iconic attractions like the Eiffel Tower and the Louvre of Paris, France, or the French Polynesian island boasts tropical beauty, picturesque beaches, and luxurious resorts in Bora Bora. The world awaits-go explore! 
 ## 1. Project Description
 * **Title:** Trailblazer travel planner
 * **Objective:** Develop an Android application to assist users with travel plans.
