@@ -17,7 +17,8 @@ Your Ultimate Travel Companion Trailblazer, the go-to app for hodophiles, combin
      * Payment options: If your app involves transactions (e.g., booking flights or accommodations), integrate payment options (e.g., Master, Visa, American Express, or Discover).
    * **Itinerary Comfirmation**:
      * Trip Planner: Let users create, edit, and organize their travel itineraries.
-     * Notifications: Send reminders for flights, hotel check-ins, and activities. 
+     * Notifications: Send reminders for flights, hotel check-ins, and activities.
+     * User's settings: Payments, security, general information, and logout.
 ## 3. Platform
 * **Operating System**:
      * Android is the primary OS for mobile devices. You’ll build your app specifically for Android smartphones and tablets.
