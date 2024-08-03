@@ -3,15 +3,21 @@ An app that caters to hodophile enthusiasts.
 ## Summary:
 Your Ultimate Travel Companion Trailblazer, the go-to app for hodophiles, combines exploration and nature in one seamless experience. Whether you’re a seasoned traveler or simply seeking fresh air, Hummingbird Travel Agency’s essential tools enhance your adventures. From discovering the City of Light, with iconic attractions like the Eiffel Tower and the Louvre of Paris, France, or the French Polynesian island boasts tropical beauty, picturesque beaches, and luxurious resorts in Bora Bora. The world awaits-go explore! 
 ## 1. Project Description
-* **Title:** Trailblazer travel planner
+* **Title:** Hummingbird Travel Agency travel planner
 * **Objective:** Develop an Android application to assist users with travel plans.
 * **Target Audience:** This app targets users who travel more than three or more times a year.
-## 2. Problem Addressing
-* Lack of Local Insights: Many travelers need help finding authentic local experiences when visiting a new place. They often rely on generic tourist guides or miss out on hidden gems.
-* Inefficient Trip Planning: Planning a trip involves juggling multiple aspects—flights, accommodations, activities, and transportation. An app that streamlines this process can save time and reduce stress.
-* Difficulty Finding Outdoor Activities: Adventure enthusiasts may find it challenging to discover suitable outdoor activities, hiking trails, or adventure sports in unfamiliar locations.
-* Social Connection: Solo travelers or those seeking group adventures might want a platform to connect with like-minded individuals or local guides.
-* Real-Time Navigation: An app that provides accurate real-time navigation during outdoor adventures (hiking, biking, etc.) can enhance safety and enjoyment.
+## 2. Android App Project
+* Registration/log-in: To assist travelers in creating their account, if they do not already have one. 
+* Destination Selector: Assist travelers in choosing the destination's Loyalty, Identity, Competitiveness, and Image. The most important factors to consider when choosing a tourist destination are location, infrastructure, culture, and trends.
+* Hotel accommodations:  To provide travelers with shelter, food, refreshments, and similar services and goods, offering on a commercial basis things that are customarily furnished within households but unavailable to people on a journey away from home.
+* **Search and Booking**:
+     * Flight Search: Allow users to search for flights based on dates, destinations, and preferences.
+     * Hotel Booking: Enable users to find and book accommodation.
+     * Car Rentals: Include options for renting cars during travel.
+     * Payment options: If your app involves transactions (e.g., booking flights or accommodations), integrate payment options (e.g., Master, Visa, American Express, or Discover).
+   * **Itinerary Comfirmation**:
+     * Trip Planner: Let users create, edit, and organize their travel itineraries.
+     * Notifications: Send reminders for flights, hotel check-ins, and activities. 
 ## 3. Platform
 * **Operating System**:
      * Android is the primary OS for mobile devices. You’ll build your app specifically for Android smartphones and tablets.
@@ -34,38 +40,19 @@ Your Ultimate Travel Companion Trailblazer, the go-to app for hodophiles, combin
      * APIs: Create APIs for features like flight search, hotel booking, and itinerary management.
      * Cloud Services: Use cloud platforms (e.g., AWS, Google Cloud, or Azure) for scalability and reliability.
 * **Additional Considerations**:
-     * Payment Gateway: If your app involves transactions (e.g., booking flights or accommodations), integrate a payment gateway (e.g., Stripe, PayPal).
+     * 
      * Push Notifications: Implement notifications for flight updates, booking confirmations, etc.
      * Analytics: Track user behavior, app performance, and engagement.
 ## 5. Functionality
-* **Search and Booking**:
-     * Flight Search: Allow users to search for flights based on dates, destinations, and preferences.
-     * Hotel Booking: Enable users to find and book accommodation.
-     * Car Rentals: Include options for renting cars during travel.
-* **Itinerary Management**:
-     * Trip Planner: Let users create, edit, and organize their travel itineraries.
-     * Notifications: Send reminders for flights, hotel check-ins, and activities.
-* **Maps and Navigation**:
-     * Interactive Maps: Display points of interest, attractions, and routes.
-     * GPS Navigation: Provide turn-by-turn directions for travelers.
 * **User Profiles and Preferences**:
      * User Accounts: Allow users to create profiles and save preferences.
      * Personalization: Offer tailored recommendations based on user preferences.
-* **Reviews and Ratings**:
-     * User Reviews: Let travelers share their experiences and rate hotels, restaurants, and activities.
-     * Trustworthy Ratings: Curate reliable reviews to help users make informed decisions.
-* **Offline Access**:
-     * Offline Maps: Allow users to download maps without an internet connection.
-     * Offline Itineraries: Store travel plans locally for offline access.
 * **Language Support**:
      * Multi-Language: Provide content in different languages for global users.
      * Translation Services: Offer real-time translation for communication.
 * **Travel Tips and Recommendations**:
      * Local Insights: Share insider tips about destinations, culture, and safety.
      * Weather Updates: Include weather forecasts for travel dates.
-* **Emergency Assistance**:
-     * Emergency Contacts: List local emergency numbers (police, hospitals, etc.).
-     * Health and Safety Information: Provide health advisories and safety guidelines.
 * **Social Integration**:
      * Social Sharing: Allow users to share travel experiences on social media.
      * Collaboration: Enable group trip planning and coordination.
@@ -97,14 +84,6 @@ Your Ultimate Travel Companion Trailblazer, the go-to app for hodophiles, combin
      * Checkout: For flights, hotels, and activities.
      * Payment: Securely collect payment information.
      * Confirmation: Display booking details and confirmation number.
-* **Maps and Navigation**:
-     * Interactive Map: Show destinations, points of interest, and routes.
-     * GPS Navigation: Provide turn-by-turn directions.
-* **Reviews and Ratings**:
-     * Allow users to rate and review hotels, restaurants, and activities.
-     * Display average ratings and user feedback.
-* **Notifications**:
-     * Send alerts for booking confirmations, flight updates, and itinerary changes.
-* **Settings and Preferences**:
-     * Language selection, currency, notification preferences, etc.
+
+
 
