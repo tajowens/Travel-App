@@ -9,7 +9,7 @@ Your Ultimate Travel Companion Trailblazer, the go-to app for hodophiles, combin
 ## 2. Android App Project
 * Registration/log-in: To assist travelers in creating their account, if they do not already have one. 
 * Destination Selector: Assist travelers in choosing the destination's Loyalty, Identity, Competitiveness, and Image. The most important factors to consider when choosing a tourist destination are location, infrastructure, culture, and trends.
-* Hotel accommodations:  To provide travelers with shelter, food, refreshments, and similar services and goods, offering on a commercial basis things that are customarily furnished within households but unavailable to people on a journey away from home.
+* Hotel accommodations:  To provide travelers with shelter, food, refreshments, and similar services and goods, offering on a commercial basis things customarily furnished within households but unavailable to people on a journey away from home.
 * **Search and Booking**:
      * Flight Search: Allow users to search for flights based on dates, destinations, and preferences.
      * Hotel Booking: Enable users to find and book accommodation.
