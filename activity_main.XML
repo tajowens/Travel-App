@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="642dp"
+        android:layout_height="264dp"
+        android:layout_marginBottom="600dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/hummingbird"
+        tools:ignore="ContentDescription,VisualLintBounds" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="308dp"
+        android:text="Email"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="HardcodedText,MissingConstraints,VisualLintOverlap"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="420dp"
+        android:text="Password"
+        android:textColor="@color/black"
+        android:textColorLink="@color/material_dynamic_neutral100"
+        android:textSize="20sp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="HardcodedText,MissingConstraints,VisualLintOverlap"
+        tools:layout_editor_absoluteX="1dp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="196dp"
+        android:text="Not registered yet?  Create an account"
+        android:textAlignment="viewStart"
+        android:textColor="@color/black"
+        android:textColorHighlight="@color/black"
+        android:textIsSelectable="true"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="DuplicateIds,HardcodedText,VisualLintOverlap" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="554dp"
+        android:layout_height="101dp"
+        android:src="@drawable/statusbar"
+        tools:ignore="ContentDescription,MissingConstraints,VisualLintBounds"
+        tools:layout_editor_absoluteX="-72dp"
+        tools:layout_editor_absoluteY="-40dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="683dp"
+        android:layout_height="206dp"
+        android:src="@drawable/keyboard"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="ContentDescription,MissingConstraints,VisualLintBounds"
+        tools:layout_editor_absoluteY="667dp" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="475dp"
+        android:layout_height="57dp"
+        android:src="@drawable/navigationbar"
+        tools:ignore="ContentDescription,MissingConstraints,VisualLintBounds"
+        tools:layout_editor_absoluteX="-51dp"
+        tools:layout_editor_absoluteY="843dp" />
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="797dp"
+        android:layout_height="86dp"
+        android:src="@drawable/button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.619"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="ContentDescription,MissingConstraints,ImageContrastCheck,VisualLintBounds"
+        tools:layout_editor_absoluteY="334dp" />
+
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="722dp"
+        android:layout_height="89dp"
+        android:src="@drawable/button"
+        tools:ignore="ContentDescription,MissingConstraints,ImageContrastCheck,VisualLintBounds"
+        tools:layout_editor_absoluteX="-199dp"
+        tools:layout_editor_absoluteY="447dp" />
+
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="332dp"
+        android:layout_height="108dp"
+        android:src="@drawable/loginbutton"
+        android:textSize="34sp"
+        tools:ignore="ContentDescription,MissingConstraints"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="536dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
