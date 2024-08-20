@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView69"
+        android:layout_width="1063dp"
+        android:layout_height="95dp"
+        app:srcCompat="@drawable/statusbar"
+        tools:layout_editor_absoluteX="-325dp"
+        tools:layout_editor_absoluteY="-28dp"
+        tools:ignore="ContentDescription,MissingConstraints,VisualLintBounds" />
+
+    <ImageView
+        android:id="@+id/imageView74"
+        android:layout_width="652dp"
+        android:layout_height="69dp"
+        app:srcCompat="@drawable/navigationbar"
+        tools:layout_editor_absoluteX="-151dp"
+        tools:layout_editor_absoluteY="670dp"
+        tools:ignore="ContentDescription,MissingConstraints,VisualLintBounds" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Payment"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="77dp"
+        tools:layout_editor_absoluteY="49dp"
+        tools:ignore="HardcodedText,MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView75"
+        android:layout_width="170dp"
+        android:layout_height="88dp"
+        app:srcCompat="@drawable/circle"
+        tools:layout_editor_absoluteX="-48dp"
+        tools:layout_editor_absoluteY="30dp"
+        tools:ignore="ContentDescription,MissingConstraints,VisualLintBounds" />
+
+    <ImageView
+        android:id="@+id/imageView76"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rightdirectionalarrow"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="56dp"
+        tools:ignore="ContentDescription,MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Card Number"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="142dp"
+        tools:ignore="HardcodedText,MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView77"
+        android:layout_width="719dp"
+        android:layout_height="101dp"
+        app:srcCompat="@drawable/button"
+        tools:layout_editor_absoluteX="-150dp"
+        tools:layout_editor_absoluteY="180dp"
+        tools:ignore="ContentDescription,MissingConstraints,VisualLintBounds" />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name on Card"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="256dp"
+        tools:ignore="HardcodedText,MissingConstraints,VisualLintOverlap" />
+
+    <ImageView
+        android:id="@+id/imageView78"
+        android:layout_width="410dp"
+        android:layout_height="140dp"
+        app:srcCompat="@drawable/button"
+        tools:layout_editor_absoluteX="19dp"
+        tools:layout_editor_absoluteY="256dp"
+        tools:ignore="ContentDescription,MissingConstraints,VisualLintBounds" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Exp Date"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="396dp"
+        tools:ignore="HardcodedText,MissingConstraints,VisualLintOverlap" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CVV"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="275dp"
+        tools:layout_editor_absoluteY="396dp"
+        tools:ignore="HardcodedText,MissingConstraints,VisualLintOverlap" />
+
+    <ImageView
+        android:id="@+id/imageView82"
+        android:layout_width="168dp"
+        android:layout_height="98dp"
+        app:srcCompat="@drawable/button"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="396dp"
+        tools:ignore="ContentDescription,MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView83"
+        android:layout_width="96dp"
+        android:layout_height="207dp"
+        app:srcCompat="@drawable/button"
+        tools:layout_editor_absoluteX="251dp"
+        tools:layout_editor_absoluteY="329dp"
+        tools:ignore="ContentDescription,MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Type of Credit Card"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="457dp"
+        tools:ignore="HardcodedText,MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView84"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/box"
+        tools:layout_editor_absoluteX="19dp"
+        tools:layout_editor_absoluteY="536dp"
+        tools:ignore="ContentDescription,MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView85"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/box"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="577dp"
+        tools:ignore="ContentDescription,MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView86"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/box"
+        tools:layout_editor_absoluteX="19dp"
+        tools:layout_editor_absoluteY="494dp"
+        tools:ignore="ContentDescription,MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView87"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/box"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="618dp"
+        tools:ignore="ContentDescription,MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Master"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="57dp"
+        tools:layout_editor_absoluteY="513dp"
+        tools:ignore="HardcodedText,MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView35"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Visa"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="554dp"
+        tools:ignore="HardcodedText,MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="American Express"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="592dp"
+        tools:ignore="HardcodedText,MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Discover"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="637dp"
+        tools:ignore="HardcodedText,MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
